@@ -1,0 +1,19 @@
+<!--<?xml version="1.0" encoding="UTF-8" standalone="yes"?>-->
+<!--<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"-->
+<!--             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"-->
+<!--             version="2.2">-->
+<!--    <persistence-unit name="UP_POSTGRES">-->
+<!--        <properties>-->
+<!--            <property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/db"/>-->
+<!--            <property name="hibernate.connection.username" value="postgres"/>-->
+<!--            <property name="hibernate.connection.password" value="root"/>-->
+<!--            <property name="hibernate.connection.driver_interface" value="org.postgresql.ds.PGSimpleDataSource"/>-->
+<!--            <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQL95Dialect"/>-->
+<!--            <property name="hibernate.hbm2ddl.auto" value="update"/>-->
+<!--            <property name="hibernate.show_sql" value="true"/>-->
+<!--            &lt;!&ndash; Enables hibernate automatic session context management (make our life a lot easier)  &ndash;&gt;-->
+<!--            <property name="hibernate.current_session_context_class" value="thread"/>-->
+<!--        </properties>-->
+<!--    </persistence-unit>-->
+<!--</persistence>-->
