@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gestion-evenements:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gestion-evenements</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gestion-evenements-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gestion-evenements:war exploded" />
+    </root>
+  </artifact>
+</component>
